@@ -1,3 +1,4 @@
+![logo](https://github.com/Deepanshuharsh2209/Deepanshuharsh2209/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Deepanshu Mittal</h1>
 <h3 align="center">A passionate data driven person</h3>
 
